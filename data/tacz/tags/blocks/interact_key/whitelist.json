@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#sns_compat:toggleable"
+    "#sns_compat:toggleable",
+	"#sns_compat:sign"
   ]
 }
