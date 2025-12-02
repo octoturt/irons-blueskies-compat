@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "#mcwlights:lamps",
+    "#mcwlights:wall_lamps",
+    "#mcwlights:ceiling_fan_lights",
+    "#mcwlights:ceiling_lights",
+    "#mcwlights:chandeliers",
+    "#mcwlights:garden_lights",
+    "#mcwlights:paper_lamps",
+    "#mcwlights:street_lamps",
+    "#mcwlights:soul_street_lamps",
+    "#mcwlights:candle_holders",
+    "#mcwlights:tiki_torches",
+    "#mcwlights:soul_tiki_torches",
+    "blue_skies:crystallized_trapdoor",
+    "create:train_trapdoor",
+    "create:framed_glass_trapdoor",
+    "create:powered_latch",
+    "create:hand_crank",
+    "supplementaries:crank",
+    "supplementaries:gold_door",
+    "supplementaries:netherite_door",
+    "supplementaries:gold_trapdoor",
+    "supplementaries:netherite_trapdoor",
+    "supplementaries:slidy_block",
+    "supplementaries:iron_gate"
+  ]
+}
