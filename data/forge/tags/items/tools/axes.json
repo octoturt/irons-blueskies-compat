@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "blue_skies:bluebright_axe",
+    "blue_skies:starlit_axe",
+    "blue_skies:frostbright_axe",
+    "blue_skies:lunar_axe",
+    "blue_skies:dusk_axe",
+    "blue_skies:maple_axe",
+    "blue_skies:comet_axe",
+    "blue_skies:turquoise_stone_axe",
+    "blue_skies:lunar_stone_axe",
+    "blue_skies:pyrope_axe",
+    "blue_skies:aquite_axe",
+    "blue_skies:diopside_axe",
+    "blue_skies:charoite_axe",
+    "blue_skies:horizonite_axe",
+    "simplysteel:steel_axe",
+    "sculkhorde:ferriscite_axe"
+  ]
+}
